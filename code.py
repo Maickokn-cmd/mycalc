@@ -30,4 +30,28 @@ print(f"A subtração de {num2} de
 #a = 10
 #b = 4
 #subtracao = a - b
-#print(f"A subtração de {a} menos {b} é {subtracao}")
+#print(f"A subtração de {a} menos {b} é {subtracao}"
+
+#Divisão, ela retorna um número float. É representada pelo símbolo (/)
+print('''num1 = float(input("Digite o primeiro número: "))
+num2 = float(input("Digite o segundo número: "))
+resultado = num1 / num2
+print("O resultado da divisão é:", resultado)''') 
+
+#Exemplo:
+#a = 20
+#b = 5
+#divisao = a / b
+#print(f"A divisão de {a} por {b} é {divisao}")
+
+#Multplicação, ela multiplica todos os valores. É representada pelo símbolo (*)
+print('''num1 = float(input("Digite o primeiro número: "))
+num2 = float(input("Digite o segundo número: "))
+resultado = num1 * num2
+print("O resultado da multiplicação é:", resultado)'''
+
+#Exemplo:
+#a = 6
+#b = 7
+#multiplicacao = a * b
+#print(f"A multiplicação de {a} vezes {b} é {multiplicacao}"))
