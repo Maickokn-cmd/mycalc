@@ -17,9 +17,17 @@ print(f"Resultado da soma: {a + b}"
 # soma = a + b
 #print(f"A soma de {a} e {b} é {soma}")
 
+#Subtração, ela subtrai o segundo valor do primeiro. É representada pelo símbolo (-)
+print('''num1 = float (input ("Digite o
+primeiro número: "))
+num2 = float (input ("Digite o segundo
+numero: ") )
+resultado = numl - num2
+print(f"A subtração de {num2} de
+{num1} é {resultado}''')
 
-
-
-
-
-
+#Exemplo:
+#a = 10
+#b = 4
+#subtracao = a - b
+#print(f"A subtração de {a} menos {b} é {subtracao}")
