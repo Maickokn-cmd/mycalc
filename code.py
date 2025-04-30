@@ -43,6 +43,8 @@ print("O resultado da divisão é:", resultado)''')
 #b = 5
 #divisao = a / b
 #print(f"A divisão de {a} por {b} é {divisao}")
+<<<<<<< HEAD
+=======
 
 #Multplicação, ela multiplica todos os valores. É representada pelo símbolo (*)
 print('''num1 = float(input("Digite o primeiro número: "))
@@ -55,3 +57,4 @@ print("O resultado da multiplicação é:", resultado)'''
 #b = 7
 #multiplicacao = a * b
 #print(f"A multiplicação de {a} vezes {b} é {multiplicacao}"))
+>>>>>>> main
